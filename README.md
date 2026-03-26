@@ -1,4 +1,4 @@
-<img width="1596" height="894" alt="Praktek Astrid Database" src="https://github.com/user-attachments/assets/7d13eede-3bb8-4755-8131-35b043f443bc" /># Latihan CRUD Karyawan dengan Java Swing - Praktik OOP Java
+# Latihan CRUD Karyawan dengan Java Swing - Praktik OOP Java
 
 Aplikasi desktop sederhana untuk mengelola data karyawan menggunakan Java Swing dan MySQL. Dibuat sebagai tutorial belajar Java dengan GUI dan database.
 
@@ -189,7 +189,7 @@ crud-swing-karyawan/
 ```
 
 ## Hasil Screenshot Program
-
+<img width="1596" height="894" alt="Praktek Astrid Database" src="https://github.com/user-attachments/assets/7d13eede-3bb8-4755-8131-35b043f443bc" />
 
 
 
